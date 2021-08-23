@@ -1,0 +1,16 @@
+{
+    "name": "pouya/7todo",
+    "description": "A Simple Todo Project (with Ajax,PHP and MySql)",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pouya-parsaei",
+            "email": "pouya.goodboy1371@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "hekmatinasser/verta": "^1.12"
+    }
+}
